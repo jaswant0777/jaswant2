@@ -1,0 +1,161 @@
+ /*----------------------hover------------------------------*/
+ body{font-family: 'Poppins', sans-serif; }
+ a{text-decoration: none ;color: #000;}
+ h3{font-weight: 700;}
+ h2{font-weight: 900;}
+ h5{font-weight: 700;}
+.jh{font-weight: 700;}
+.bi{color: #f3c3cf;}
+a:hover{color: #f01111;}
+/*----------------------navbar------------------------------*/
+.navbar{--bs-navbar-nav-link-padding-x: 20px; font-weight: 600; font-family: Arial, Helvetica, sans-serif; background: #eee;}
+.hvr-underline-from-left:before {background: #e44e4e; bottom: 8px; height: 2px; }
+.bal{ padding-right:120px; }
+.nav-link:hover{color: #d61919 !important;}
+
+
+/*----------------------section-4------------------------------*/
+.icon{width: 70px; height: 70px; background-color: #fdf6f8; border-radius: 50%;}
+.icon i{color: #f01111; font-size: 30px; display: flex;  justify-content: center; padding-top: 20px;}
+    
+ 
+/*----------------------section-5------------------------------*/
+
+.full{width: 100px; height: 40px; background-color: #fff; border-radius: 50%;
+    font-size: 20px; display: flex;  justify-content: center; padding-top: 5px; color: #f01111; }
+/*----------------------section-6------------------------------*/
+.car{
+    overflow: hidden;
+    transition: all 0.3s;
+}            
+.card img:hover {
+    transform: scale(1.5);
+    transition: all 0.5s;
+}
+.lh{overflow: hidden;}
+
+/*----------------------section-7------------------------------*/
+
+.accordion{--bs-accordion-btn-focus-box-shadow: 0 0 0 0rgba; 
+  
+}
+
+
+/*----------------------section-8------------------------------*/
+.yad:hover{box-shadow: 2px 2px 2px 2px #dddcdc;}
+/*----------------------section-9------------------------------*/
+.kh{border: none; color: #fff; border-radius: 5px;}
+
+/*----------------------section-10------------------------------*/
+.bg{ background-image: url(../images/aa8.jpg);
+    background-repeat: no-repeat;
+border-bottom-width: 0px;
+background-attachment: fixed;
+padding-bottom: 30px;
+background-size: cover;
+}
+
+.owl-carousel .owl-item img{width: 100%; border-radius: 100%;}
+
+/*----------------------section-11------------------------------*/
+
+
+.element{
+    width: 100%;
+    
+
+    background: #e6e1e2;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    
+}
+
+/*----------------------section-12------------------------------*/
+
+
+@media(max-width:768px){
+    h3{font-size: 18px;}
+    h5{font-size: 15px;}
+    .bal{padding-right: 0px;}
+    .yas{margin-bottom: 20px;}
+
+}
+@media(max-width:425px){
+    .hem{font-size: 15px;}
+    .bg{padding-bottom: 0px;} 
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.kl {padding-top: 10px;}
+.cv{background: #8baac4; }
+
+
+.carousel-caption{bottom: 15rem; right: 20%;}
+.navbar-collapse{flex-grow: 0;} 
+
+/*----------------------section-8------------------------------*/
+.info{background-color: #009999;
+      color: #fff;
+      border-radius: 10px;
+}
+
+.info:hover {
+    transform: scale(1.1);
+    transition: all 0.5s;
+}
+
+     .hh {
+        overflow: hidden;
+        transition: all 0.5s;
+    }            
+
+
+    /*----------------------section-5------------------------------*/
+/* .car{
+    overflow: hidden;
+    transition: all 0.3s;
+}            
+.card img:hover {
+    transform: scale(1.5);
+    transition: all 0.5s;
+}
+.lh{overflow: hidden;} */
+
+
+
+/* -------------------------------------------------------------- */
+
+
+
+        
+    
+ 
+
+
+@media(max-width:768px){
+    .as{display: none;}
+    .navbar-nav{text-align: center;}
+    
+}
+
+
